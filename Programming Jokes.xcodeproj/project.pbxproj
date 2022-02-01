@@ -11,6 +11,7 @@
 		3FBB5E5527A9947A00B49C35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBB5E5427A9947A00B49C35 /* ContentView.swift */; };
 		3FBB5E5727A9947E00B49C35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FBB5E5627A9947E00B49C35 /* Assets.xcassets */; };
 		3FBB5E5A27A9947E00B49C35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FBB5E5927A9947E00B49C35 /* Preview Assets.xcassets */; };
+		3FBB5E6427A99BCE00B49C35 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBB5E6327A99BCE00B49C35 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FBB5E5627A9947E00B49C35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FBB5E5927A9947E00B49C35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FBB5E5B27A9947E00B49C35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FBB5E6327A99BCE00B49C35 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3FBB5E5227A9947A00B49C35 /* Programming_JokesApp.swift */,
 				3FBB5E5427A9947A00B49C35 /* ContentView.swift */,
+				3FBB5E6327A99BCE00B49C35 /* SwiftyJSON.swift */,
 				3FBB5E5627A9947E00B49C35 /* Assets.xcassets */,
 				3FBB5E5B27A9947E00B49C35 /* Info.plist */,
 				3FBB5E5827A9947E00B49C35 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FBB5E6427A99BCE00B49C35 /* SwiftyJSON.swift in Sources */,
 				3FBB5E5527A9947A00B49C35 /* ContentView.swift in Sources */,
 				3FBB5E5327A9947A00B49C35 /* Programming_JokesApp.swift in Sources */,
 			);
